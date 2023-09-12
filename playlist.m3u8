@@ -1,0 +1,13 @@
+#EXTM3U
+# Created with Bento4 mp4-dash.py, VERSION=2.0.0-639
+#
+#EXT-X-VERSION:6
+
+# Media Playlists
+
+
+
+# I-Frame Playlists
+#EXT-X-I-FRAME-STREAM-INF:https://infi.xtremestream.co/player/load_m3u8_xtremestream.php?data=d69116f8b0140cdeb1f99a4d5096ffe4&q=720"
+#EXT-X-I-FRAME-STREAM-INF:https://infi.xtremestream.co/player/load_m3u8_xtremestream.php?data=d69116f8b0140cdeb1f99a4d5096ffe4&q=420"
+
