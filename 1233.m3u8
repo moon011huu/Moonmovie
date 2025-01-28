@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Хадмал орчуулгын тохиргоо
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Mongolian",LANGUAGE="mn",AUTOSELECT=YES,DEFAULT=YES,URI="https://playermongol.rf.gd/wp-content/uploads/2025/01/13.vtt"
+
+# 480p Stream
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480,SUBTITLES="subs"
+https://vz-c07fa791-f02.b-cdn.net/c008f9a1-5895-436a-88e6-c52f1428dee8/480p/video.m3u8
+
+# 720p Stream
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,SUBTITLES="subs"
+https://vz-c07fa791-f02.b-cdn.net/c008f9a1-5895-436a-88e6-c52f1428dee8/720p/video.m3u8
